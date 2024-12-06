@@ -1,4 +1,4 @@
-# Your Name  
+#  Name  
 **UI/UX Designer | BSc CSIT Student**  
 
 ## Education  
